@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[TicTux Linux Blog]]></title>
   <link href="http://tictux.github.com/atom.xml" rel="self"/>
   <link href="http://tictux.github.com/"/>
-  <updated>2012-01-25T16:58:56+02:00</updated>
+  <updated>2012-01-25T17:16:56+02:00</updated>
   <id>http://tictux.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[TicTux]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
